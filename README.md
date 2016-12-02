@@ -1,2 +1,0 @@
-# xm_nodeproject
-nodeproject

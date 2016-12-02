@@ -1,0 +1,23 @@
+*~
+*.swp
+node_modules
+public/dist
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*.rdb
+*.pub
+*.log
+*.out
+semioe
+*~
+*.sass-cache
+.DS_Store
+.idea
+.vscode
